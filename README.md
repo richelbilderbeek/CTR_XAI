@@ -12,9 +12,12 @@ If you do not have an instance of Jupyter Notebook and Python, download Anaconda
 In order to run the notebook you will also need to install the libraries sklearn, xgboost and shap.
 
 To do this use line command in terminal for Mac or Windows Terminal for Windows PC.  You can use pip to install the three libraries:  
-pip install sklearn  
+
+```bash
+pip install scikit-learn
 pip install xgboost  
 pip install shap  
+```
 
 For more information for installations  
 https://scikit-learn.org/stable/install.html  
